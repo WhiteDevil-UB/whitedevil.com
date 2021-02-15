@@ -1,4 +1,4 @@
-[![Deploy with Vercel](https://vercel.co/button)](https://vercel.co/new/project?template=https://github.com/aryanvikash/react-dev-portfolio)
+[![Deploy with Vercel](https://vercel.co/button)](https://vercel.co/new/project?template=https://github.com/Discovery-Projects/aryanvikash.com)
 
 ## Developer Portfolio In NEXTJS
 
