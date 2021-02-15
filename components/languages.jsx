@@ -16,16 +16,11 @@ export default function Languages() {
       {/* Programming Languages */}
       <div className="lang">
         <h1>
-          <span className="badge badge-danger">Programming Languages</span>
+          <span className="badge badge-danger">Programming Language</span>
         </h1>
       </div>
       <div className="grid-flex">
-        <img src="https://img.icons8.com/color/96/000000/c-programming.png" />
-        <img src="https://img.icons8.com/color/480/000000/c-plus-plus-logo.png" />
         <img src="https://img.icons8.com/color/480/000000/python.png" />
-        <img src="https://img.icons8.com/color/480/000000/dart.png" />
-        <img src="https://img.icons8.com/color/480/000000/javascript.png" />
-        <img src="https://img.icons8.com/color/480/000000/kotlin.png" />
       </div>
 
       {/*  Frameworks */}
